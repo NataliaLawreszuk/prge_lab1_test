@@ -1,5 +1,6 @@
 users: list = [
     {'name':'natalia'},
     {'name': 'Bartosz K'},
-    {'name': 'Mikolaj'}
+    {'name': 'Mikolaj'},
+    {'name': 'Emil'},
 ]
