@@ -3,4 +3,5 @@ users: list = [
     {'name': 'Bartosz K'},
     {'name': 'Mikolaj'},
     {'name': 'Emil'},
+    {'name': 'Bartosz W'}
 ]
